@@ -11,6 +11,10 @@
 ```
 git clone https://github.com/maybefw/XXT-sign.git
 ```
+进入根目录之后，执行以下命令安装环境
+```
+npm install
+```
 主文件index.js 输入账密 运行文件之会自动检测签到类型并执行签到，目前支持普通和位置签到（依据老师在教师端设置的位置签到），后续如有讨论成果会更新签到码手势和二维码   
 ` const loginResult = await userLogin('', '');//输入账号密码`
 ![59d735dfea2a12e3d41c90fcfee5658](https://github.com/user-attachments/assets/7e3841d3-770f-47da-94d7-18ac9829c0f0)

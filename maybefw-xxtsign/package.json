@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "child_process": "^1.0.2",
+    "crypto-js": "^4.2.0",
+    "express": "^4.21.1",
+    "uuid": "^11.0.3"
+  },
+  "name": "chaoxing-signin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -9,7 +9,7 @@
 
 ## 使用
 ```
-git clone https://github.com/maybefw/AHUT-.git
+git clone https://github.com/maybefw/XXT-sign.git
 ```
 主文件index.js 输入账密 运行文件之会自动检测签到类型并执行签到，目前支持普通和位置签到（依据老师在教师端设置的位置签到），后续如有讨论成果会更新签到码手势和二维码   
 ` const loginResult = await userLogin('', '');//输入账号密码`

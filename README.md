@@ -1,5 +1,8 @@
 # XXT-sign
-学习通签到，个人开发代码乱见谅，遗憾的是签到码无法正常获取，学生身份请求接口不会返回signcode，原本所有包括二维码签到都是正常，后端前端已写，测试天塌了🫠，如有知道签到码如何获取/跟我深度讨论请联系v：_jianlou  邮箱：jile4149@gmail.com    
+🫥🫥🫥学习通签到已可用，目前支持除了二维码签到之外的所有签到 均是一键签到，签到码，手势，位置（指定位置或不指定位置都可） 普通签到都是一键签到   
+<img src="https://github.com/user-attachments/assets/2f24f805-2ac5-4c96-9d1a-cfd4117aaf9e" width="400" />
+
+联系v：_jianlou     
 开源一个早期版本 供大家参考交流🫠
 ## FLOWCHART
 ![7c5c40721d3b23b853ee1116b389d78](https://github.com/user-attachments/assets/eaa8ee2d-b519-4af0-9ba7-1cf6c20d86e6)
@@ -20,6 +23,5 @@ npm install
 ![59d735dfea2a12e3d41c90fcfee5658](https://github.com/user-attachments/assets/7e3841d3-770f-47da-94d7-18ac9829c0f0)
 
 ## 碎碎念
-🫥🫥🫥后端前端都做结果正式签到暴雷了哈哈 小程序也做了：   
-<img src="https://github.com/user-attachments/assets/868f2f0a-8ddc-44bf-9e53-d354d7daaa96" width="400" />
-<img src="https://github.com/user-attachments/assets/09f70ae1-fe3a-4394-9ab6-225c6c0a04c7" width="400" />
+🫥🫥🫥  欢迎讨论交流   
+
